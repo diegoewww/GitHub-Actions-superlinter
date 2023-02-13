@@ -1,1 +1,1 @@
-# migithubactions
+GitHub Actions superlinter
